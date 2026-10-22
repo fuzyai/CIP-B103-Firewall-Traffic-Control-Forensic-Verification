@@ -1,8 +1,8 @@
-# CIP-B103 Lab [#] – Network Forensics Firewall Lab: iptables Rule Verification with Network Namespaces
+# CIP-B103 Lab 6 – Network Forensics Firewall Lab: iptables Rule Verification with Network Namespaces
 
 **Student:** Fuseini Imoru Kantuogaa  
 **Course:** CIP-B103  
-**Lab:** Lab [#] – Baseline/Allowed/Blocked Traffic Testing of an iptables DROP Rule Using a Simulated Client Namespace
+**Lab:** Lab 6 – Baseline/Allowed/Blocked Traffic Testing of an iptables DROP Rule Using a Simulated Client Namespace
 
 ## Overview
 
